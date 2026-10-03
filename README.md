@@ -17,6 +17,26 @@ Games
 1. A Glitch through Time: Threads of the Crown
 2. humanoidindragonland
 
+# Thesis
+Thesis Title: **HUMANOIDINDRAGONLAND: DESIGNING A MOTION-BASED VR GAME WITH VOLUMETRIC CAPTURE**
+
+Abstract: 
+Our research examines the user experience of virtual reality motion-based games using
+volumetric capture, a crucial factor in the adoption of volumetric video capture systems in game
+development, interactive VR, and immersive films. There are currently no studies on the user
+experience of volumetric interaction, and only short prototypes of virtual-reality motion-based
+games have been developed using volumetric capture systems. Therefore, for our research, we
+adopted a UX-oriented research-by-design methodology by developing the dark fantasy game
+humanoidindragonland. While designing our game, we developed a step-based control scheme
+for navigation and a variation of the 3D bubble-cursor grasping metaphor for object selection &
+manipulation, using 3D reconstructions from volumetric capture in VR environments. Our
+design was verified through multiple guided usability tests conducted in a laboratory
+environment at the Visual Computing Lab of CERTH (Centre for Research & Technology,
+Hellas). Participants in these usability and playtests evaluated the experience with
+questionnaires. Their responses informed our design decisions at the pre-production and
+production stages regarding the Volumetric interaction and the user experience in the VR game,
+whilst we also produced a non-immersive version of the game (TRL-8).
+
 # Skills
 1. Game Development
 2. Game Design
