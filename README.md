@@ -8,12 +8,12 @@ Hello everyone! I'm Defkalion, a freelance VR and game developer based in Thessa
 2. XR Cinema Educator Intern (2026)
 
 # Projects
-Tools
+**Tools**
 1. Volumetric Capture Video Player - Unity / Unreal Engine
 2. Volumetric Capture VR Controller - Unity
 3. VR and Touch Paint - Unity
 
-Games
+**Games**
 1. A Glitch through Time: Threads of the Crown
 2. SAFARI
 2. humanoidindragonland
