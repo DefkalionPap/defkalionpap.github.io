@@ -15,6 +15,7 @@ Tools
 
 Games
 1. A Glitch through Time: Threads of the Crown
+2. SAFARI
 2. humanoidindragonland
 
 # Thesis
