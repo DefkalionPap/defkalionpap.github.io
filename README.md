@@ -38,6 +38,8 @@ questionnaires. Their responses informed our design decisions at the pre-product
 production stages regarding the Volumetric interaction and the user experience in the VR game,
 whilst we also produced a non-immersive version of the game (TRL-8).
 
+[Read now](https://drive.google.com/file/d/14akc128ZZnfihSbiw0AmH9cYonZ5VVCT/view?usp=sharing)
+
 # Skills
 1. Game Development
 2. Game Design
