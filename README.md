@@ -65,6 +65,6 @@ whilst we also produced a non-immersive version of the game (TRL-8).
 [Read now](https://drive.google.com/file/d/14akc128ZZnfihSbiw0AmH9cYonZ5VVCT/view?usp=sharing)
 
 # Skills
-## Game Development
-## Game Design
-## UX Design
+### Game Development
+### Game Design
+### UX Design
