@@ -19,7 +19,7 @@ Onassis General High School
 ### Tools
 **Volumetric Capture Video Player - Unity / Unreal Engine**
 
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/00e761f2-d660-41b0-b761-9f20397a50ff" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/00e761f2-d660-41b0-b761-9f20397a50ff" />
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
