@@ -3,8 +3,17 @@ Hello everyone! I'm Defkalion, a freelance VR and game developer based in Thessa
 . In my spare time, I volunteered as a film critic for the Reykjavik International Film Festival 2025. My professional and research interests include Virtual Reality, UX/Game Design, and Game Development. I have experience with level design in Unity and Unreal, scripting in C# for Unity, and visual scripting in Blueprints for Unreal. I can also do video and audio editing in DaVinci Resolve. Feel free to message me if you want to collaborate or hire me for a project. I am authorized to where everyewhere in the European Union.
 
 ## CV
-1. XR Tools Developer Intern (2025)
-2. XR Cinema Educator Intern (2026)
+### XR Tools Developer Intern
+
+Centre for Research & Technology, Hellas
+
+01/03/2025 – 30/04/2025
+
+### XR Cinema Educator Intern
+
+Onassis General High School
+
+17/02/2026 – 11/05/2026
 
 ## Projects
 ### Tools
