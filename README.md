@@ -17,9 +17,20 @@ Onassis General High School
 
 ## Projects
 ### Tools
-1. Volumetric Capture Video Player - Unity / Unreal Engine
-2. Volumetric Capture VR Controller - Unity
-3. VR and Touch Paint - Unity
+**Volumetric Capture Video Player - Unity / Unreal Engine**
+
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/00e761f2-d660-41b0-b761-9f20397a50ff" />
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+**Volumetric Capture VR Controller - Unity**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+**VR and Touch Paint - Unity**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### Games
 1. A Glitch through Time: Threads of the Crown
@@ -49,6 +60,6 @@ whilst we also produced a non-immersive version of the game (TRL-8).
 [Read now](https://drive.google.com/file/d/14akc128ZZnfihSbiw0AmH9cYonZ5VVCT/view?usp=sharing)
 
 # Skills
-1. Game Development
-2. Game Design
-3. UX Design
+## Game Development
+## Game Design
+## UX Design
