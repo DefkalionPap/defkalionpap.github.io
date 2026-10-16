@@ -8,11 +8,12 @@ Hello everyone! I'm Defkalion, a freelance VR and game developer based in Thessa
 
 Volumetric Capture Video Player is a cross-engine tool developed for Unity and Unreal Engine under the supervision of CERTH’s Visual Computing Lab. The system enables applications to load and play sequences of volumetric capture files in glTF format as continuous video content. My role involved designing and implementing the core playback functionality, including file sequence management, asset loading, and real-time presentation within both engines. The tool provides an accessible workflow for integrating volumetric video into interactive projects, supporting applications such as immersive experiences, virtual production, digital humans, and other 3D media projects requiring animated volumetric content.
 
-![image](https://github.com/user-attachments/assets/25f7885e-3ffb-44ed-b3c7-a21c54ac41c2) 
+<img width="619" height="328" alt="image" src="https://github.com/user-attachments/assets/fd7c8395-f3d0-4ea6-ac2e-e5ba44962a95" />
+
 
 <a href="https://defkalionpap.github.io/Volumetric-Capture-Video-Player/">Read More</a>
 
-
+<!--
 
 **Volumetric Capture VR Controller - Unity**
 
@@ -27,18 +28,32 @@ VR and Touch Paint is a Unity tool developed independently using code adapted fr
 
 <a href="mailto:deucalionpapadopoulos@gmail.com">Request Info</a>
 
+-->
 ### Games
 **A Glitch through Time: Threads of the Crown**
 
 A Glitch Through Time: Threads of the Crown is a prototype for a 2D branching narrative game developed in collaboration with Malmö Museum in Sweden. I worked as the game developer, contributing to the implementation of its interactive systems and narrative gameplay structure. The story follows a journalist investigating a powerful political figure who unexpectedly awakens in the sixteenth century in the body of a court messenger addressing James Hepburn, the controversial husband of Mary, Queen of Scots. Players alternate between past and present, collecting evidence, making decisions, delivering letters, and uncovering political parallels that connect historical power struggles with contemporary disinformation and political conflict.
 
+<img width="619" height="328" alt="Φάκελος Καλλιτεχνικών Έργων (1)" src="https://github.com/user-attachments/assets/c92887e6-078f-4613-a614-c27cea3fa160" />
+
+<a href="https://drive.google.com/file/d/1gZReCdYBOJrlRdKDo9Mk6nZ5ro-4am9b/view?usp=sharing">See Demo</a>
+
 **SAFARI**
 
 SAFARI is a 3D interactive simulation prototype designed and developed in Unity using the Convai plugin. Set in a nightclub during Halloween, the experience encourages players to engage in conversations with AI-driven patrons and create unique narratives through dialogue. Each character responds and performs actions based on their individual biography, personality, and knowledge, resulting in dynamic and unscripted interactions. Originally developed as coursework for the Augmented, Virtual, and Mixed Reality courses at the Aristotle University of Thessaloniki’s Film School, the project was later refined and presented at the 2024 digital art exhibition Do Androids Dream of Electric Sheep? and MOMus’ 2025 Finisage exhibition.
 
+<img width="619" height="328" alt="image" src="https://github.com/user-attachments/assets/249d8bd6-1eab-4a80-9ed6-657e6158c742" />
+
+<a href="https://drive.google.com/file/d/1HfxJ6uo9Uhg2-Z51h9MLVfZ0gnvCLTEr/view?usp=sharing">See Demo</a>
+
+
 **humanoidindragonland**
 
 humanoidindragonland is a VR game prototype developed as my master’s thesis in collaboration with CERTH’s Visual Computing Lab. I was responsible for the game’s development and UX design, creating a motion-based gameplay experience driven by volumetric capture video. Players take on the role of a child from the Dark Continent, ruled by the fearsome dragon Michole. When the protagonist’s best friend, Celia, is kidnapped by the dragon’s followers and held captive in his cave-monastery, the player must enter the dangerous lair and attempt to rescue her before the sacrificial ceremony begins. The project explores immersive storytelling, physical interaction, and volumetric performance in VR.
+
+<img width="619" height="328" alt="Φάκελος Καλλιτεχνικών Έργων (2)" src="https://github.com/user-attachments/assets/24ad7576-ee77-4079-bf9b-fa0817ddda36" />
+
+<a href="https://drive.google.com/file/d/1zbecsP39he_OYBi9GTVfECNmHFVZ_BRC/view?usp=share_link">See Demo</a>
 
 ## Thesis
 Thesis Title: **HUMANOIDINDRAGONLAND: DESIGNING A MOTION-BASED VR GAME WITH VOLUMETRIC CAPTURE**
