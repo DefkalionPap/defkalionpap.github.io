@@ -25,3 +25,17 @@ production stages regarding the Volumetric interaction and the user experience i
 whilst we also produced a non-immersive version of the game (TRL-8).
 
 [Read now](https://drive.google.com/file/d/14akc128ZZnfihSbiw0AmH9cYonZ5VVCT/view?usp=sharing)
+
+## DCAC 2025 - AI & Applications
+Presentation Title: Interactive Fiction Narrative Design in the Age of AI: Observations from SAFARI
+
+Abstract:
+SAFARI is a 3D IF (Interactive Fiction) computer game using foundational AI (Artificial
+Intelligence) models. This paper presents the methodologies applied to enhance narrative content
+via interactivity with AI NPCs (Non-Player Characters) and the conclusions and observations
+regarding best practices that emerged whilst users interacted with Safari’s AI NPCs during the art
+exhibition Do Androids Dream of Electric Sheep? The Human Condition in the Age of Artificial
+Intelligence (Athens, 2024). This paper aims to provide insights into AI NPC design and
+branching narrative design through AI dialogue systems for interactive fiction works.
+
+Extended Abstract: https://avarts.ionio.gr/dcac/2025/en/presentations/1766/
