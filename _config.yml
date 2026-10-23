@@ -7,3 +7,10 @@ theme: minima
 
 markdown: kramdown
 permalink: /:categories/:title/
+
+header_pages:
+  - index.md
+
+  
+exclude:
+  - README.md
