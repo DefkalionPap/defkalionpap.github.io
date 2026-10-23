@@ -38,4 +38,4 @@ exhibition Do Androids Dream of Electric Sheep? The Human Condition in the Age o
 Intelligence (Athens, 2024). This paper aims to provide insights into AI NPC design and
 branching narrative design through AI dialogue systems for interactive fiction works.
 
-Extended Abstract: https://avarts.ionio.gr/dcac/2025/en/presentations/1766/
+[Extended Abstract](https://avarts.ionio.gr/dcac/2025/en/presentations/1766/)
