@@ -1,3 +1,7 @@
+layout: page
+title: Tools
+permalink: /tools/
+
 **Volumetric Capture Video Player - Unity / Unreal Engine**
 
 Volumetric Capture Video Player is a cross-engine tool developed for Unity and Unreal Engine under the supervision of CERTH’s Visual Computing Lab. The system enables applications to load and play sequences of volumetric capture files in glTF format as continuous video content. My role involved designing and implementing the core playback functionality, including file sequence management, asset loading, and real-time presentation within both engines. The tool provides an accessible workflow for integrating volumetric video into interactive projects, supporting applications such as immersive experiences, virtual production, digital humans, and other 3D media projects requiring animated volumetric content.
