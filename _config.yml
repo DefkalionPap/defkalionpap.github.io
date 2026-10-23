@@ -1,0 +1,17 @@
+title: "Defkalion-Nikolaos Papadopoulos"
+description: "XR Creative Technologist creating immersive tools and prototypes guided by UX design and filmmaking principles."
+url: "https://defkalionpap.github.io"
+baseurl: ""
+
+markdown: kramdown
+permalink: /:categories/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
