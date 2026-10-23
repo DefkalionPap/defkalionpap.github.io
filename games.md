@@ -1,3 +1,8 @@
+---
+layout: page
+title: Games
+permalink: /games/
+---
 
 **A Glitch through Time: Threads of the Crown**
 
