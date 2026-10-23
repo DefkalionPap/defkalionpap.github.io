@@ -3,7 +3,7 @@ description: "XR Creative Technologist creating immersive tools and prototypes g
 url: "https://defkalionpap.github.io"
 baseurl: ""
 
-theme: jekyll-theme-minima
+theme: minima
 
 markdown: kramdown
 permalink: /:categories/:title/
