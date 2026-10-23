@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 ## Thesis
-Thesis Title: **HUMANOIDINDRAGONLAND: DESIGNING A MOTION-BASED VR GAME WITH VOLUMETRIC CAPTURE**
+Thesis Title: HUMANOIDINDRAGONLAND: DESIGNING A MOTION-BASED VR GAME WITH VOLUMETRIC CAPTURE
 
 Abstract: 
 Our research examines the user experience of virtual reality motion-based games using
