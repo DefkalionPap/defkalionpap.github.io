@@ -5,13 +5,3 @@ baseurl: ""
 
 markdown: kramdown
 permalink: /:categories/:title/
-
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
