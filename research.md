@@ -4,8 +4,8 @@ title: Research
 permalink: /research/
 ---
 
-## Master's Thesis
-Thesis Title: HUMANOIDINDRAGONLAND: DESIGNING A MOTION-BASED VR GAME WITH VOLUMETRIC CAPTURE
+## HUMANOIDINDRAGONLAND: DESIGNING A MOTION-BASED VR GAME WITH VOLUMETRIC CAPTURE
+Master's Thesis
 
 Abstract: 
 Our research examines the user experience of virtual reality motion-based games using
@@ -26,8 +26,8 @@ whilst we also produced a non-immersive version of the game (TRL-8).
 
 [Read now](https://drive.google.com/file/d/14akc128ZZnfihSbiw0AmH9cYonZ5VVCT/view?usp=sharing)
 
-## DCAC 2025 - AI & Applications
-Presentation Title: Interactive Fiction Narrative Design in the Age of AI: Observations from SAFARI
+## Interactive Fiction Narrative Design in the Age of AI: Observations from SAFARI
+DCAC 2025 - AI & Applications Conference Presentation
 
 Abstract:
 SAFARI is a 3D IF (Interactive Fiction) computer game using foundational AI (Artificial
