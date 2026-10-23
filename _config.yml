@@ -9,9 +9,7 @@ markdown: kramdown
 permalink: /:categories/:title/
 
 header_pages:
-  - index.md
   - tools.md
 
-  
 exclude:
   - README.md
