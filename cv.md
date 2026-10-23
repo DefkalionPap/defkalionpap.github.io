@@ -21,9 +21,3 @@ Onassis General High School
 Freelance
 
 08/2026 - Now
-
-## Skills
-
-### Game Development - Unity/C#
-### Game Design - GDDs, Level Design (Unity & Unreal Engine), RMDA Framework
-### UX Design - Competitive Audits, Archetypes and Personas, Prototype Development, UX Evaluation
