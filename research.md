@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-## Thesis
+## Master's Thesis
 Thesis Title: HUMANOIDINDRAGONLAND: DESIGNING A MOTION-BASED VR GAME WITH VOLUMETRIC CAPTURE
 
 Abstract: 
