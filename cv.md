@@ -22,5 +22,11 @@ Freelance
 Member of the 2025 Reykjavik International Film Festival film reviewing committee.
 
 ## Education
-Integrated Master's, Film (Virtual-Augmented-Mixed Reality Specialization)
+Integrated Master's, Film (Virtual-Augmented-Mixed Reality Specialization) <br>
 Aristotle University of Thessaloniki, 2021-2026
+
+Game Design Specialization Certificate <br>
+CalArts Coursera, 2023
+
+UX Design Professional Certificate <br>
+Google Coursera, 2021
