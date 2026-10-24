@@ -22,4 +22,12 @@ Volumetric Capture Video Player is a cross-engine tool developed for Unity and U
 
 Volumetric Capture Player Control is a Unity tool developed under the supervision of CERTH’s Visual Computing Lab as part of my master’s thesis, HUMANOID IN DRAGONLAND: Designing a Motion-Based VR Game with Volumetric Capture. The tool enables designers and developers to use livestreamed volumetric capture content as an input for interactive, motion-based gameplay. It provides the control and integration layer needed to incorporate volumetric video into game mechanics, allowing player movement and object selection to influence the experience. The project demonstrates how volumetric capture can support immersive VR game design and create more engaging, physically interactive gameplay experiences.
 
+<div align="center">
+  <img
+    src="https://github.com/user-attachments/assets/11de5e96-6d5a-455e-aa1c-0fc9a6d7a717"
+    width="619"
+    alt="image"
+  />
+</div>
+
 <a href="mailto:deucalionpapadopoulos@gmail.com">Request Info</a>
