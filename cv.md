@@ -4,8 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-<hr>
-
 ## Work Experience
 
 ### XR Tools Developer Intern
