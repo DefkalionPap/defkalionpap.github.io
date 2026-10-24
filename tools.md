@@ -24,7 +24,7 @@ Volumetric Capture Player Control is a Unity tool developed under the supervisio
 
 <div align="center">
   <img
-    src="https://github.com/user-attachments/assets/11de5e96-6d5a-455e-aa1c-0fc9a6d7a717"
+    src="https://github.com/user-attachments/assets/606a9fde-ec7c-4517-93a0-b7e0a5f65565"
     width="619"
     alt="image"
   />
