@@ -11,10 +11,9 @@ permalink: /:categories/:title/
 header_pages:
   - tools.md
   - games.md
-  - ux.md
   - research.md
   - education.md
   - cv.md
 
 exclude:
-  - README.md
+  - ux.md
