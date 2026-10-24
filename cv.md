@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-# Work Experience
+## Work Experience
 
 ### XR Tools Developer Intern
 Centre for Research & Technology, Hellas
@@ -18,9 +18,13 @@ Onassis General High School
 Freelance
 08/2026 - Now
 
-# Volunteer Experience
+<hr>
+
+## Volunteer Experience
 Member of the 2025 Reykjavik International Film Festival film reviewing committee.
 
-# Education
+<hr>
+
+## Education
 Integrated Master's, Film (Virtual-Augmented-Mixed Reality Specialization)
 Aristotle University of Thessaloniki, 2021-2026
