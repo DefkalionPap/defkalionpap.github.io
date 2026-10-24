@@ -10,23 +10,7 @@ Syllabus: <a href="https://docs.google.com/document/d/1xM_Qm5_InypDWtLRro8cC07e_
 
 Practicum Journal: <a href="https://docs.google.com/document/d/19XwcH3xhvKB_2MnT_oCurqNmWaXHGzXZIqe94gmZcfI/edit?usp=sharing">https://docs.google.com/document/d/19XwcH3xhvKB_2MnT_oCurqNmWaXHGzXZIqe94gmZcfI/edit?usp=sharing</a>
 
-Class slides:
-
-<a href="https://canva.link/51uv5i1cua7bkf1">
-  Class 1 Slides
-</a>
-
-<a href="https://canva.link/493szfvlsjdohu3">
-  Class 2 Slides
-</a>
-
-<a href="https://canva.link/wplkb7gdy035hwy">
-  Class 3 Slides
-</a>
-
-<a href="https://canva.link/bd47kyuf09fk1b1">
-  Class 4 Slides
-</a>
+Class slides: <a href="https://canva.link/51uv5i1cua7bkf1"> Class 1 Slides </a> <a href="https://canva.link/493szfvlsjdohu3"> Class 2 Slides</a> <a href="https://canva.link/wplkb7gdy035hwy"> Class 3 Slides </a> <a href="https://canva.link/bd47kyuf09fk1b1"> Class 4 Slides</a>
 
 ## VR Student Film
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/wwQtZ1VFmjM?rel=0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer *; clipboard-write *; encrypted-media *; gyroscope *; picture-in-picture *; web-share *;" referrerpolicy="strict-origin"></iframe></div>
