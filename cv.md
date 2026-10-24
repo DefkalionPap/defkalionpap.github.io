@@ -18,12 +18,8 @@ Onassis General High School
 Freelance
 08/2026 - Now
 
-<hr>
-
 ## Volunteer Experience
 Member of the 2025 Reykjavik International Film Festival film reviewing committee.
-
-<hr>
 
 ## Education
 Integrated Master's, Film (Virtual-Augmented-Mixed Reality Specialization)
