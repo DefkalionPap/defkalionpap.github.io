@@ -16,19 +16,13 @@ Class slides:
   Class 1 Slides
 </a>
 
-<br>
-
 <a href="https://canva.link/493szfvlsjdohu3">
   Class 2 Slides
 </a>
 
-<br>
-
 <a href="https://canva.link/wplkb7gdy035hwy">
   Class 3 Slides
 </a>
-
-<br>
 
 <a href="https://canva.link/bd47kyuf09fk1b1">
   Class 4 Slides
