@@ -18,3 +18,5 @@ I’m authorized to work throughout the European Union and the United States.
 ### Game Development - Unity/C#
 ### Game Design - GDDs, Level Design (Unity & Unreal Engine), RMDA Framework
 ### UX Design - Competitive Audits, Archetypes and Personas, Prototype Development, UX Evaluation
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2225%;"><iframe src="https://www.canva.com/design/DAHWeeu5gkQ/K_96WKBP2DCOnyKO7BAQpA/view?embed&meta" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="fullscreen *;"></iframe></div>
