@@ -1,5 +1,5 @@
 title: "Defkalion's Portfolio"
-description: "XR Creative Technologist creating immersive tools and prototypes guided by UX design and filmmaking principles."
+description: "XR & Game Developer creating immersive tools and prototypes."
 url: "https://defkalionpap.github.io"
 baseurl: ""
 
@@ -11,7 +11,9 @@ permalink: /:categories/:title/
 header_pages:
   - tools.md
   - games.md
-  - ux.md
   - research.md
   - education.md
   - cv.md
+
+  exclude:
+    - ux.md
