@@ -59,3 +59,5 @@ SAFARI is a 3D interactive simulation prototype designed and developed in Unity 
 humanoidindragonland is a VR game prototype developed as my master’s thesis in collaboration with CERTH’s Visual Computing Lab. I was responsible for the game’s development and UX design, creating a motion-based gameplay experience driven by volumetric capture video. Players take on the role of a child from the Dark Continent, ruled by the fearsome dragon Michole. When the protagonist’s best friend, Celia, is kidnapped by the dragon’s followers and held captive in his cave-monastery, the player must enter the dangerous lair and attempt to rescue her before the sacrificial ceremony begins. The project explores immersive storytelling, physical interaction, and volumetric performance in VR.
 
 <a href="https://drive.google.com/file/d/1zbecsP39he_OYBi9GTVfECNmHFVZ_BRC/view?usp=share_link">See Demo</a>
+
+<a href="https://canva.link/nfdv9shlaxaoo4x">Read More</a>
