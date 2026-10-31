@@ -15,5 +15,5 @@ header_pages:
   - education.md
   - cv.md
 
-  exclude:
-  ux.md
+exclude:
+  - ux.md
