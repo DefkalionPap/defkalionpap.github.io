@@ -16,4 +16,4 @@ header_pages:
   - cv.md
 
   exclude:
-  - ux.md
+  ux.md
