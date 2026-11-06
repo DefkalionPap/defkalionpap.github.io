@@ -40,7 +40,7 @@ branching narrative design through AI dialogue systems for interactive fiction w
 
 [Extended Abstract](https://avarts.ionio.gr/dcac/2025/en/presentations/1766/)
 
-# Art Exhibitions
+### Art Exhibitions
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/38ed041e-fa1c-4322-8630-1756f7c125d7"
