@@ -41,5 +41,14 @@ branching narrative design through AI dialogue systems for interactive fiction w
 [Extended Abstract](https://avarts.ionio.gr/dcac/2025/en/presentations/1766/)
 
 # Art Exhibitions
-<img width="994" height="536" alt="Defkalion Nikolaos Papadopoulos Nefeli Maria Dimitriadi" src="https://github.com/user-attachments/assets/38ed041e-fa1c-4322-8630-1756f7c125d7" />
-Do Androids Dream of Electric Sheep? The human condition in the age of AI (Group Exhibition, Athens, 21/11/2024-22/12/2024)
+<div align="center">
+  <img
+    src="https://github.com/user-attachments/assets/38ed041e-fa1c-4322-8630-1756f7c125d7"
+    width="619"
+    alt="Exhibition Photograph"
+  />
+</div>
+Do Androids Dream of Electric Sheep? The human condition in the age of AI 
+Presented Works: SAFARI, (un)Muted (Teaser)
+Group Exhibition
+Athens, 21/11/2024-22/12/2024
