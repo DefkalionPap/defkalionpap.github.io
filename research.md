@@ -48,7 +48,11 @@ branching narrative design through AI dialogue systems for interactive fiction w
     alt="Exhibition Photograph"
   />
 </div>
-Do Androids Dream of Electric Sheep? The human condition in the age of AI 
+
+## Do Androids Dream of Electric Sheep? The human condition in the age of AI 
+
 Presented Works: SAFARI, (un)Muted (Teaser)
+<br>
 Group Exhibition
+<br>
 Athens, 21/11/2024-22/12/2024
